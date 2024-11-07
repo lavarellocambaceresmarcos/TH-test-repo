@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Skyrim",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque aliquam in porro, obcaecati natus autem eum quam vel blanditiis.",
+    "image": "./images/skyrim.png"
+  },
+  {
+    "id": 1,
+    "title": "Wow",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque aliquam in porro, obcaecati natus autem eum quam vel blanditiis.",
+    "image": "./images/wow.png"
+  },
+  {
+    "id": 1,
+    "title": "Horizon",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque aliquam in porro, obcaecati natus autem eum quam vel blanditiis.",
+    "image": "./images/horizon.png"
+  }
+]
